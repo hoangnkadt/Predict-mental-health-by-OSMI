@@ -2,7 +2,7 @@
 
 OSMI(Open Sourcing Mental Illness) in 2014, 2016, 2017, 2018, 2019
 
-##Đồ án được chia làm ba phần chính:
+<b> Đồ án được chia làm ba phần chính:<b>
 -Data cleaning
 -	Data analysis
 -	MachineLearning
