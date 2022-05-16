@@ -2,9 +2,9 @@
 
 OSMI(Open Sourcing Mental Illness) in 2014, 2016, 2017, 2018, 2019
 
-<b> Đồ án được chia làm ba phần chính:<b>
--Data cleaning
--	Data analysis
+<b> Đồ án được chia làm ba phần chính:</b> <br>
+-	Data cleaning
+- 	Data analysis
 -	MachineLearning
 Tệp dữ liệu được lấy ở Open Sourcing Mental Illness, bao gồm năm 2014,2016,2017,2018,2019,2020,2021 (không có dữ liệu năm 2015)
 Dữ liệu 2020, 2021 quá bé chỉ hơn 100 row, không có ý nghĩ nên loại bỏ
